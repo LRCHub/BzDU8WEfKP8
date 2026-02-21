@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "sabbat",
+  "base_artist": "scapegoat",
+  "createdAt": "2026-02-21T08:51:11.530280Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Astral Sabbat",
+      "artist": "Jess and the Ancient Ones",
+      "has_synced": true,
+      "path": "select/01_Astral_Sabbat_Jess_and_the_Ancient_Ones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come to the Sabbat",
+      "artist": "Black Widow",
+      "has_synced": true,
+      "path": "select/02_Come_to_the_Sabbat_Black_Widow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "For Those Who Died (Return to the Sabbat Remix)",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/03_For_Those_Who_Died_(Return_to_the_Sabbat_Remix)_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "For Those Who Have Died (Sabbat cover) (Bonus Track)",
+      "artist": "Cradle Of Filth",
+      "has_synced": true,
+      "path": "select/04_For_Those_Who_Have_Died_(Sabbat_cover)_(Bonus_Track)_Cradle_Of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For Those Who Died (Return to the Sabbat mix)",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/05_For_Those_Who_Died_(Return_to_the_Sabbat_mix)_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sabbat",
+      "artist": "Subway to Sally",
+      "has_synced": false,
+      "path": "select/06_Sabbat_Subway_to_Sally.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sabbat",
+      "artist": "kamaitachi feat. E4GL3",
+      "has_synced": true,
+      "path": "select/07_Sabbat_kamaitachi_feat._E4GL3.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sabbat",
+      "artist": "Kamaitachi",
+      "has_synced": true,
+      "path": "select/08_Sabbat_Kamaitachi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "For Thost Who Died (Return To The Sabbat Mix)",
+      "artist": "Cradle Of Filth",
+      "has_synced": true,
+      "path": "select/09_For_Thost_Who_Died_(Return_To_The_Sabbat_Mix)_Cradle_Of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Enthralled Toxic Sabbat",
+      "artist": "Belphegor",
+      "has_synced": true,
+      "path": "select/10_Enthralled_Toxic_Sabbat_Belphegor.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come to the Sabbat (demo)",
+      "artist": "Black Widow",
+      "has_synced": false,
+      "path": "select/11_Come_to_the_Sabbat_(demo)_Black_Widow.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sabbat",
+      "artist": "Damh the Bard",
+      "has_synced": true,
+      "path": "select/12_Sabbat_Damh_the_Bard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sabbat",
+      "artist": "Scapegoat",
+      "has_synced": false,
+      "path": "select/pl_01_sabbat_Scapegoat.txt"
+    }
+  ]
+}
